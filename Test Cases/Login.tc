@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7916d38-a287-41e3-887b-a8cf3f1d9118</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d49bdb6a-25d9-4b2d-a55e-abeb35ef5d7d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'local Var'</defaultValue>
+      <description></description>
+      <id>d49bdb6a-25d9-4b2d-a55e-abeb35ef5d7d</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>
